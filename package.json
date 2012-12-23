@@ -1,5 +1,5 @@
 {
-  "name": "dnspod-ddns",
+  "name": "dnspod-ddns-local",
   "description": "A DNSPOD DDNS Client",
   "version": "0.1.0",
   "keywords": [
